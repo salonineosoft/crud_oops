@@ -1,0 +1,60 @@
+ /* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+ body { 
+     font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+}  
+*/
+  html, body {
+    height: 190%;
+    background-color:#09436d;
+  /* background-color: chartreuse;*/
+    
+    overflow: hidden;
+  } 
+
+
+  tr{
+      color:white;
+    background-color:#c0dcf0;
+    
+    
+  }
+ .del{
+     background-color: red;
+ }
+ .add{
+     background-color: #093f68;
+     margin-top: 20px;
+ }
+ h4 {
+     margin-top: 1px;
+ }
+ .frm{
+   margin-top: 0%;
+   background-color:#093657;
+   color: aliceblue;
+ }
+ .form1{
+   background-color:#043558;
+   color: floralwhite;
+ }
+ .form-items
+{
+  margin-left: 90px;
+}
+.head{
+  margin-right: 30px;
+}
+.title{
+  margin-right: 150px;
+}
+.pera{
+  margin-right: 150px;
+}
+.upbtn{
+  margin-right: 190px;
+}
